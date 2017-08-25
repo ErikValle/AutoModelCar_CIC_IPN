@@ -2,26 +2,25 @@
 
 Welcome to the CIC's AutoModel Car gitHub. This repository contents the code for the next modules:
 
-- Image preprocessing (C++ and Python).
+- Image preprocessing and camera adjustment (C++ and Python).
 - Lane follower (C++ and Pyhton).
 - Intersection detector (C++ and Pyhton).
 - Obstacke detection (C++ and Pyhton).
-- Camera adjustment (C++).
 - Joystick (C++).
 
-The ROS distro is Indigo along with Ubuntu 14.10 LTS. All the C++ and Pyhton Modules are included in different ROS packages. The launch files are also included.
+The ROS distro used is Indigo along with Ubuntu 14.10 LTS. All the C++ and Pyhton Modules are included in different ROS packages. The launch files are also included.
 
-Installation:
+## Packages installation:
 
-IMPORTANT: You must have a catkin_ws workspace already configured!
+**IMPORTANT: Before starting, make sure you have ROS and a catkin_ws workspace already configured on your PC! Otherwise, visit the [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment).**
 
 
 If you need more info about the code, please contact:
 
-Project Coordinator:
+* Project Coordinator:
 Erik Zamora Gómez, e-mail: ezamora1981@gmail.com.
 
-Project Manager: 
+* Project Manager: 
 Cesar Gerardo Bravo Conejo,  e-mail: conilo@gmail.com.
 
 Student assistants:
