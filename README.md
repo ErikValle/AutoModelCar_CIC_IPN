@@ -24,8 +24,8 @@ Erik Zamora Gómez, e-mail: ezamora1981@gmail.com.
 Cesar Gerardo Bravo Conejo,  e-mail: conilo@gmail.com.
 
 Student assistants:
-- Brenda Camacho Garcia, e-mail: brendacg616@gmail.com.
-- Esteban Iván Rojas Hernández, e-mail: rojasesteban23@gmail.com.
+- Brenda Camacho Garcia (e-mail: brendacg616@gmail.com).
+- Esteban Iván Rojas Hernández (e-mail: rojasesteban23@gmail.com).
 
 
 
